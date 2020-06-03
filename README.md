@@ -13,7 +13,7 @@ The Outcomes of the Project are given below:<br/>
 <br/>
 The Repository contains the following files:<br/>
 1. images_universal.zip                           : This file consists of 200 images which forms the UNIVERSAL SET.<br/>
-2. facial_keypointf.csv                           : This CSV file comtains the oarameter values for each of the 200 images.<br/>
+2. facial_keypointf.csv                           : This CSV file contains the parameter values for each of the 200 images.<br/>
 3. Facial_Expression_Detection_WITHOUT_MASK.ipynb : It conatins the code for detecting the Facial Expression when the person is not wearing a mask.<br/>
 4. Facial_Expression_Detection_with_MASK.ipynb    : It conatins the code for detecting the Facial Expression when the person is wearing a mask.<br/>
 5. requirements.txt                               : Consists of the Required Tools for this Project.<br/>
