@@ -9,7 +9,7 @@ The Outcomes of the Project are given below:<br/>
 3) Predicting if the person might be Depressed.<br/>
 4) Determining the degree of closeness to a particular Attribute(or)Expression.<br/>
 5) With the onset of the corona virus pandemic, most people will choose to wear masks on a regular basis.By using Attribute Based Double Bounded Rough Neutrosophic Sets the person’s true expression can be detected just by using the feature points in and around the eyes.<br/>
-6) To check if a person is Faking an Expression or trying to cheating during examinations.<br/>
+6) To check if a person is Faking an Expression or trying to cheating during examinations.<br/> 
 <br/>
 The Repository contains the following files:<br/>
 1) **images_universal.zip** : This file consists of 200 images which forms the UNIVERSAL SET.<br/>
