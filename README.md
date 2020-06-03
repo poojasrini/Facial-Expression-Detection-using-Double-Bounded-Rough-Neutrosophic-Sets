@@ -4,16 +4,16 @@ The most predominant non-verbal communication method used to understand the ment
 This project mainly focuses on a hybrid intelligent structure called “rough Neutrosophic sets” and also introducing “double bounded rough Neutrosophic sets” which are used for the important facial expression recognition. The significance of introducing this hybrid set structures is that the computational techniques based on any one of these structures alone will not always yield the best results but a fusion of two or more of them can often give better results.<br/>
 
 The Outcomes of the Project are given below:<br/>
-1) Detecting the Facial Expression of a person using Real Time Data.<br/>
-2) Differentiating between Genuine and Fake Smiles.<br/>
-3) Predicting if the person might be Depressed.<br/>
-4) Determining the degree of closeness to a particular Attribute(or)Expression.<br/>
-5) With the onset of the corona virus pandemic, most people will choose to wear masks on a regular basis.By using Attribute Based Double Bounded Rough Neutrosophic Sets the person’s true expression can be detected just by using the feature points in and around the eyes.<br/>
-6) To check if a person is Faking an Expression or trying to cheating during examinations.<br/> 
+1. Detecting the Facial Expression of a person using Real Time Data.<br/>
+2. Differentiating between Genuine and Fake Smiles.<br/>
+3. Predicting if the person might be Depressed.<br/>
+4. Determining the degree of closeness to a particular Attribute(or)Expression.<br/>
+5. With the onset of the corona virus pandemic, most people will choose to wear masks on a regular basis.By using Attribute Based Double Bounded Rough Neutrosophic Sets the person’s true expression can be detected just by using the feature points in and around the eyes.<br/>
+6. To check if a person is Faking an Expression or trying to cheating during examinations.<br/> 
 <br/>
 The Repository contains the following files:<br/>
-1. images_universal.zip                           : This file consists of 200 images which forms the UNIVERSAL SET.<br/>
+1. **images_universal.zip**                          : This file consists of 200 images which forms the UNIVERSAL SET.<br/>
 2. facial_keypointf.csv                           : This CSV file comtains the oarameter values for each of the 200 images.<br/>
-3) Facial_Expression_Detection_WITHOUT_MASK.ipynb : It conatins the code for detecting the Facial Expression when the person is not wearing a mask.<br/>
-4) Facial_Expression_Detection_with_MASK.ipynb    : It conatins the code for detecting the Facial Expression when the person is wearing a mask.<br/>
-5) requirements.txt                               : Consists of the Required Tools for this Project.<br/>
+3. Facial_Expression_Detection_WITHOUT_MASK.ipynb : It conatins the code for detecting the Facial Expression when the person is not wearing a mask.<br/>
+4. Facial_Expression_Detection_with_MASK.ipynb    : It conatins the code for detecting the Facial Expression when the person is wearing a mask.<br/>
+5. requirements.txt                               : Consists of the Required Tools for this Project.<br/>
