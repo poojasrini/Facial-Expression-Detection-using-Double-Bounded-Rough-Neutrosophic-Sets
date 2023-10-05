@@ -21,7 +21,8 @@ The Repository contains the following files:<br/>
 4. Facial_Expression_Detection_with_MASK.ipynb    : It conatins the code for detecting the Facial Expression when the person is wearing a mask.<br/>
 5. requirements.txt                               : Consists of the Required Tools for this Project.<br/>
 
-# Citation of the paper    @article{sivakumar2022attribute,
+# Citation of the paper    
+@article{sivakumar2022attribute,
  author = "B, Praba; Pooja S; and Nethraa Sivakumar",
  title = ""Attribute based {Double} {Bounded} {Rough} {Neutrosophic} {Sets} in {Facial} {Expression} {Detection}",
  journal = "" Neutrosophic Sets and Systems 49",
