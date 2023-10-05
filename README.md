@@ -22,10 +22,10 @@ The Repository contains the following files:<br/>
 5. requirements.txt                               : Consists of the Required Tools for this Project.<br/>
 
 # Citation of the paper    
-@article{sivakumar2022attribute, <br/>
- author = "B, Praba; Pooja S; and Nethraa Sivakumar", <br/>
- title = ""Attribute based {Double} {Bounded} {Rough} {Neutrosophic} {Sets} in {Facial} {Expression} {Detection}", <br/>
- journal = "" Neutrosophic Sets and Systems 49", <br/>
- volume = "1", <br/>
- year = 2022 <br/>
+@article{sivakumar2022attribute, <br>
+ author = "B, Praba; Pooja S; and Nethraa Sivakumar", <br>
+ title = ""Attribute based {Double} {Bounded} {Rough} {Neutrosophic} {Sets} in {Facial} {Expression} {Detection}", <br>
+ journal = "" Neutrosophic Sets and Systems 49", <br>
+ volume = "1", <br>
+ year = 2022 <br>
 }
